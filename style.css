@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(-45deg, #ff4e9b, #8f00ff, #ff6ec4, #6a11cb);
+    background: -45deg, #ff4e9b;
     background-size: 400% 400%;
     animation: gradientBG 8s ease infinite;
     color: #fff;
@@ -178,4 +178,5 @@ form button{
 
 #search-result img:hover{
     transform: scale(1.05);
+
 }
